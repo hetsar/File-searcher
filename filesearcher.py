@@ -24,7 +24,7 @@ matches = []
 
 # Predefined terms
 predefined_terms = {
-    "snapchat": ["cache_controller", "SCContent", "arroyo", "scdb-27", "com.peakaboo", "snapchat", "com.snapchat"],
+    "snapchat": ["cache_controller.db", "SCContent", "arroyo.db", "scdb-27.sqlite3"],
     "protonmail": ["proton", "protonmail"],
     "torbrowser": ["tor.browser", "torbrowser", "tor-browser", ".onion"],
     "wickr": ["wickr", "wickr pro", "wickrpro", "wickr me", "wickrme", "mywickr"],
